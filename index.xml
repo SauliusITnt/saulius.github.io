@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sauliaus Page</title>
+    <link>https://SauliusITnt.github.io/</link>
+    <description>Recent content on Sauliaus Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2024 15:41:30 +0300</lastBuildDate>
+    <atom:link href="https://SauliusITnt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SauliausPirmasPuslapis</title>
+      <link>https://SauliusITnt.github.io/posts/mypost/</link>
+      <pubDate>Sat, 01 Jun 2024 15:41:30 +0300</pubDate>
+      <guid>https://SauliusITnt.github.io/posts/mypost/</guid>
+      <description>Pirmas puslapis 2024-06-01 per laboratorini darba</description>
+    </item>
+  </channel>
+</rss>
